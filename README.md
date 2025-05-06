@@ -1,3 +1,5 @@
+![report](https://github.com/mayye4ka/cryptocalc/raw/master/img/exmpl.png)
+
 # Cryptocalc
 
 Утилита позволяет посчитать, сколько денег вы могли бы заработать / потерять, если бы регулярно покупали крипту.
